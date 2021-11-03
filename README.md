@@ -1,4 +1,4 @@
-# Spring_MVC_Lecture2_login-Exception-_Kim_Young_Han--
+# Spring_MVC_Lecture2_Exception_Kim_Young_Han-
 
 # Exception
 - [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard) 에서 6번쨰 프로젝트
